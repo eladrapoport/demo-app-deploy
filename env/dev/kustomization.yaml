@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/eladrapoport/demo-app
-  newTag: latest
+  newTag: 9bed1eefdb0d4e1b5e21c295014f15b299d4d6f7
